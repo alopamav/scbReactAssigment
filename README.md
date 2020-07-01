@@ -27,3 +27,22 @@ Inside src folder two component were used movieListScreen and movieDetail
 # Library used
 
 modules used in the development are react, axio, react-dom, react-router-Dom, query-string,react-scripts and @material-ui/core
+
+# folder Structure
+
+    SCBREACTASSIGNMENT/
+        README.md
+        node_modules/
+        package.json
+        public/
+            index.html
+            favicon.ico
+        screenshots/
+        src/
+            component/
+                movieDetails/
+                movieListScreen/
+            index.js
+            root.js
+            routes.js
+            serviceWorker.js
