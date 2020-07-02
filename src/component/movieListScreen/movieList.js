@@ -14,7 +14,6 @@ import {
 
 import SearchBox from "./SearchBox";
 import axios from "axios";
-import {AutoSizer} from "react-virtualized";
 
 const divStyle = {
   color: "black",
